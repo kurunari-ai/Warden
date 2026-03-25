@@ -119,7 +119,7 @@ async function createCategorySelectMenu() {
     );
 
     embed.setFooter({
-        text: "Made with ❤️"
+        text: "Made by Kurunari.ai"
     });
     embed.setTimestamp();
 
